@@ -66,6 +66,5 @@ Esperamos que este mini curso inspire vocês a continuarem explorando o universo
 
 
 # Nomes
-#Vinicius
-Oi
-
+Marquim
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRqptuj1Rzqsa7TyXSOmjKC1tZR8B5wXVEV_GXo1WuZt-SqB9lrTASRIZibdLVe5h1foGh3jJ8KZGh5kIu-iIfi4HDJGB0oNsFBTQphzaQ"/>
