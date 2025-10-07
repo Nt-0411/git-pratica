@@ -66,3 +66,6 @@ Esperamos que este mini curso inspire vocês a continuarem explorando o universo
 
 
 # Nomes
+#Vinicius
+Oi
+
