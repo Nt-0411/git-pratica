@@ -65,4 +65,5 @@ Esperamos que este mini curso inspire vocês a continuarem explorando o universo
 > _“Sozinhos vamos mais rápido, mas juntos vamos mais longe.”_ 🚀
 
 
-# Nomes
+# Lucas
+git hub é bem melhor quando não é a Katiana ensinando
