@@ -67,3 +67,7 @@ Esperamos que este mini curso inspire vocês a continuarem explorando o universo
 
 # Sophia
 Minha terra tem palmeiras, onde canta o sabiá
+# Nomes
+#Vinicius
+Oi
+
