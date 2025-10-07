@@ -66,3 +66,5 @@ Esperamos que este mini curso inspire vocês a continuarem explorando o universo
 
 
 # Nomes
+
+# Rafael D. L. luan bult ruim dms no JJS
